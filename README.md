@@ -1,5 +1,8 @@
 # Personality-Assessment
 
+# Introduction
+- The Personality Assessment Test is a web application that allows users to participate in a self-assessment to understand their personality traits related to learning and personal preferences. The test consists of ten questions, and users can indicate their agreement or disagreement with each statement.
+
 # Installation
 - To use the Personality Assessment Test, follow these steps:
   1. Clone or download this repository to your local machine.
