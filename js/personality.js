@@ -32,9 +32,6 @@ function updateQuestion() {
     disagreeButton.style.backgroundColor = 'gray';
 }
 
-// ... (Rest of the code remains unchanged)
-
-
 // Function to handle agree button click
 function handleAgreeClick() {
     const currentQuestion = questions[questionIndex];
